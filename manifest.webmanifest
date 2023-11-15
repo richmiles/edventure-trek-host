@@ -1,0 +1,15 @@
+{
+    "name": "Edventure Trek",
+    "short_name": "Edventure Trek",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#231F20",
+    "theme_color": "#000",
+    "description": "Uncover knowledge in 'Edventure Trek' – a captivating journey blending interactive learning with exhilarating gameplay.",
+    "icons": [{
+      "src": "TemplateData/icons/logo.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
