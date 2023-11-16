@@ -1,4 +1,4 @@
-const cacheName = "Edventure Studios LLC-Edventure Trek-0.1";
+const cacheName = "Edventure Studios LLC-Edventure Trek-0.1.0-alpha+20231116035102";
 const contentToCache = [
     "Build/Web.loader.js",
     "Build/Web.framework.js",
